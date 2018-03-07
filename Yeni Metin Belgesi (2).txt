@@ -1,0 +1,8 @@
+1-Öncelikle siteye ilk giriþte bir yönlendirme sayfasý yapmaya çalýþtým.
+2-Grid Teorisini arka planda uyguladým
+3-Logomu odak merkezlerinden birine yerleþtirdim
+4-Sitenin en önemli butonu olan "keþfet" vurguladým ve derinleþtirdim.
+5-960px kuralýna uymaya özen gösterdim.
+6-Renklerin uyumlu olmasýna özen gösterdim.
+7-Simetri uyguladým.
+8-Yazý tiplerinin iþletim sistemlerine uygunluðuna dikkat ettim.
